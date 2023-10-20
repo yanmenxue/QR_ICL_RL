@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52d0bd8e-6a89-402b-a258-016ad23077d3" name="248">
+        <fileTransfer rootFolder="/data/duhw" accessType="SFTP" host="222.29.51.248" port="22" sshConfigId="8b3899c8-02dc-4dbc-8122-7fdaa831ea43" sshConfig="duhw@222.29.51.248:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
