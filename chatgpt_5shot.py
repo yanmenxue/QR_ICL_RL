@@ -8,7 +8,7 @@ import openai
 import tqdm
 os.environ["http_proxy"]="127.0.0.1:7890"
 os.environ["https_proxy"]="127.0.0.1:7890"
-openai.api_key = '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'
+openai.api_key = 'your-key'
 
 def set_seed(seed):
   random.seed(seed)
