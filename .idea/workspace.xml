@@ -182,7 +182,7 @@
       <workItem from="1697602304024" duration="2892000" />
       <workItem from="1697792493202" duration="502000" />
       <workItem from="1697793227223" duration="504000" />
-      <workItem from="1697793791135" duration="1059000" />
+      <workItem from="1697793791135" duration="1981000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1697792553235</created>
@@ -212,11 +212,36 @@
       <option name="project" value="LOCAL" />
       <updated>1697793732529</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一次提交">
+      <created>1697795659933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697795659933</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第一次提交">
+      <created>1697795911095</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697795911095</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />

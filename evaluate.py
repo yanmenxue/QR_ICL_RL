@@ -3,6 +3,8 @@ from data_utils import Scorer, BatchAverage, FScoreMetric, CorpusBLEUMetric
 import torch
 import re
 
+
+
 class eval():
   def __init__(self):
     self.metrics = {'ROUGE': BatchAverage(),
