@@ -4,7 +4,6 @@ import torch
 import re
 
 
-
 class eval():
   def __init__(self):
     self.metrics = {'ROUGE': BatchAverage(),
